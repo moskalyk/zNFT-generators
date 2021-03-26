@@ -6,7 +6,7 @@ Model experimentation used: [LSTM based frequency generators](https://github.com
 ### technologies used:
 - hardhat
 - zora protocol 
-- crowdx smart contract (inspo)[https://gist.github.com/graemecode/0811326589450829ccd0641e8a5408d7]
+- crowdx smart contract [inspo](https://gist.github.com/graemecode/0811326589450829ccd0641e8a5408d7)
 - pytorch
 
 See [mnist-to-memory](https://github.com/moskalyk/mnist-to-memory) for concept origin.
